@@ -38,8 +38,8 @@ typedef vector<string> VS;
 typedef pair<int, int> PII;
 typedef long long int LLI;
 
-inline int toInt( string s ){int v; istringstream sin(s);sin >> v;return v;}
 template<class T> inline string toString( T x ){ostringstream sout;sout<<x;return sout.str();}
+inline int toInt( string s ){int v; istringstream sin(s);sin >> v;return v;}
 
 int main(){
     vector<string> vs;
@@ -49,7 +49,6 @@ int main(){
         vs.push_back(ss);
         ++i;
     }
-
     string ans = vs[0];
     ans.resize(80);
     reep(i,1,vs.size()){
