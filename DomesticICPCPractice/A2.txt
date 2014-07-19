@@ -1,0 +1,233 @@
+4
+lu ru ld rd
+4
+lu ld lu ru
+1
+lu
+10
+ru lu ld rd ru rd ru lu rd ld
+100
+lu ru ld rd lu ru rd ld ru lu ld rd ru lu ld rd lu ru rd ld ru lu rd ld ru lu rd ld ru lu rd ld lu ru ld rd lu ru rd ld lu ru ld rd ru lu rd ld lu ru rd ld lu ru ld rd lu ru ld rd ru lu rd ld ru lu rd ld ru lu ld rd lu ru ld rd ru lu ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru rd ld ru lu rd ld
+100
+lu ru rd ld lu ru rd ld lu ru ld rd ru lu rd ld ru lu ld rd lu ru rd ld ru lu rd ld ru lu rd ld lu ru rd ld ru lu rd ld lu ru rd ld ru lu ld rd lu ru rd ld ru lu rd ld ru lu rd ld ru lu ld rd ru lu ld rd ru lu ld rd ru lu rd ld ru lu ld rd lu ru rd ld lu ru rd ld lu ru ld rd ru lu rd ld lu ru ld rd
+100
+ru lu ld rd ru lu rd ld lu ru ld rd lu ru rd ld lu ru ld rd ru lu ld rd lu ru rd ld ru lu ld rd lu ru rd ld ru lu ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru ld rd lu ru ld rd lu ru rd ld lu ru ld rd lu ru rd ld lu ru ld rd ru lu rd ld ru lu ld rd ru lu rd ld lu ru ld rd lu ru rd ld ru lu ld rd
+100
+lu ru rd ld lu ru ld rd ru lu rd ld lu ru rd ld ru lu rd ld lu ru rd ld lu ru ld rd lu ru ld rd ru lu ld rd lu ru ld rd ru lu ld rd ru lu rd ld ru lu rd ld ru lu ld rd lu ru rd ld lu ru ld rd ru lu rd ld lu ru rd ld lu ru rd ld lu ru rd ld lu ru rd ld lu ru rd ld lu ru rd ld ru lu ld rd lu ru ld rd
+100
+ru lu rd ld ru lu ld rd ru lu ld rd ru lu ld rd ru lu ld rd lu ru ld rd ru lu rd ld lu ru ld rd lu ru ld rd ru lu rd ld lu ru ld rd lu ru rd ld ru lu ld rd lu ru rd ld ru lu ld rd lu ru rd ld ru lu rd ld ru lu rd ld lu ru ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru rd ld lu ru ld rd lu ru ld rd
+100
+ru lu ld rd lu ru rd ld ru lu rd ld lu ru rd ld ru lu ld rd lu ru ld rd lu ru rd ld ru lu ld rd lu ru rd ld lu ru ld rd lu ru ld rd ru lu rd ld ru lu ld rd ru lu ld rd ru lu rd ld lu ru rd ld lu ru ld rd lu ru ld rd ru lu ld rd ru lu ld rd ru lu ld rd lu ru rd ld lu ru ld rd ru lu ld rd ru lu ld rd
+100
+lu ru ld rd lu ru rd ld ru lu rd ld ru lu ld rd lu ru ld rd ru lu ld rd ru lu ld rd ru lu rd ld ru lu ld rd ru lu rd ld lu ru rd ld ru lu rd ld lu ru rd ld ru lu rd ld ru lu ld rd lu ru rd ld lu ru rd ld ru lu ld rd lu ru rd ld lu ru ld rd ru lu ld rd ru lu ld rd ru lu ld rd lu ru rd ld ru lu rd ld
+100
+ru lu rd ld ru lu rd ld lu ru rd ld ru lu rd ld ru lu rd ld lu ru ld rd ru lu ld rd lu ru rd ld lu ru ld rd lu ru rd ld ru lu rd ld ru lu rd ld ru lu ld rd lu ru rd ld lu ru rd ld lu ru ld rd lu ru rd ld ru lu ld rd ru lu ld rd lu ru ld rd ru lu rd ld ru lu rd ld lu ru rd ld ru lu rd ld ru lu rd ld
+100
+ru lu rd ld ru lu rd ld lu ru rd ld ru lu rd ld ru lu ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru rd ld ru lu rd ld lu ru rd ld lu ru rd ld ru lu rd ld lu ru rd ld lu ru rd ld ru lu ld rd lu ru rd ld ru lu rd ld ru lu ld rd ru lu rd ld ru lu ld rd lu ru ld rd lu ru ld rd ru lu rd ld lu ru ld rd
+100
+lu ru ld rd ru lu rd ld ru lu rd ld lu ru rd ld ru lu rd ld ru lu rd ld lu ru ld rd ru lu rd ld lu ru ld rd ru lu rd ld lu ru ld rd lu ru rd ld lu ru ld rd lu ru ld rd ru lu ld rd lu ru rd ld lu ru ld rd ru lu rd ld ru lu ld rd lu ru ld rd lu ru ld rd ru lu ld rd ru lu ld rd lu ru ld rd lu ru rd ld
+100
+lu ru ld rd lu ru ld rd ru lu ld rd lu ru ld rd lu ru rd ld ru lu rd ld lu ru ld rd lu ru rd ld lu ru rd ld ru lu ld rd lu ru rd ld lu ru rd ld ru lu rd ld ru lu rd ld ru lu rd ld ru lu rd ld ru lu ld rd ru lu rd ld ru lu ld rd ru lu ld rd lu ru rd ld ru lu ld rd ru lu rd ld ru lu ld rd lu ru ld rd
+100
+ru lu ld rd lu ru ld rd ru lu ld rd lu ru rd ld lu ru rd ld lu ru ld rd lu ru rd ld ru lu rd ld lu ru ld rd lu ru ld rd ru lu rd ld lu ru rd ld ru lu rd ld ru lu rd ld ru lu rd ld ru lu rd ld lu ru ld rd lu ru ld rd lu ru rd ld ru lu rd ld ru lu rd ld ru lu rd ld lu ru rd ld ru lu ld rd ru lu rd ld
+100
+ru lu rd ld lu ru rd ld ru lu ld rd lu ru ld rd ru lu ld rd lu ru ld rd ru lu ld rd lu ru rd ld lu ru ld rd ru lu rd ld ru lu rd ld lu ru ld rd lu ru rd ld ru lu ld rd ru lu rd ld lu ru ld rd ru lu ld rd ru lu ld rd ru lu rd ld lu ru ld rd lu ru ld rd lu ru ld rd ru lu ld rd ru lu ld rd lu ru ld rd
+100
+ru lu ld rd lu ru rd ld ru lu rd ld ru lu rd ld lu ru ld rd ru lu rd ld lu ru rd ld lu ru rd ld lu ru ld rd ru lu rd ld lu ru ld rd ru lu rd ld lu ru ld rd lu ru ld rd lu ru rd ld lu ru rd ld lu ru rd ld ru lu ld rd lu ru rd ld ru lu rd ld ru lu ld rd ru lu ld rd lu ru rd ld ru lu ld rd lu ru rd ld
+100
+lu ru ld rd lu ru rd ld ru lu ld rd lu ru rd ld ru lu ld rd lu ru rd ld lu ru ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru ld rd ru lu ld rd lu ru rd ld lu ru ld rd lu ru rd ld lu ru ld rd lu ru ld rd lu ru ld rd lu ru ld rd lu ru ld rd ru lu rd ld lu ru rd ld ru lu ld rd ru lu ld rd lu ru rd ld
+100
+lu ru rd ld lu ru rd ld ru lu ld rd ru lu rd ld ru lu ld rd ru lu ld rd lu ru rd ld lu ru rd ld lu ru ld rd lu ru rd ld ru lu rd ld ru lu rd ld lu ru rd ld lu ru rd ld ru lu ld rd ru lu rd ld lu ru ld rd lu ru rd ld lu ru ld rd lu ru ld rd ru lu ld rd ru lu ld rd ru lu rd ld lu ru ld rd ru lu ld rd
+100
+ru lu rd ld lu ru rd ld ru lu ld rd ru lu ld rd ru lu ld rd ru lu ld rd ru lu ld rd ru lu ld rd ru lu rd ld lu ru ld rd ru lu rd ld ru lu ld rd ru lu rd ld lu ru ld rd lu ru ld rd ru lu rd ld lu ru ld rd lu ru ld rd ru lu rd ld ru lu rd ld ru lu ld rd lu ru rd ld lu ru ld rd lu ru ld rd ru lu rd ld
+100
+ru lu rd ld lu ru ld rd ru lu rd ld ru lu rd ld lu ru ld rd lu ru rd ld lu ru rd ld lu ru rd ld ru lu ld rd ru lu rd ld ru lu ld rd ru lu ld rd ru lu ld rd lu ru rd ld lu ru rd ld ru lu ld rd lu ru ld rd lu ru rd ld ru lu rd ld lu ru rd ld lu ru rd ld lu ru ld rd ru lu rd ld lu ru rd ld lu ru ld rd
+100
+ru lu rd ld lu ru rd ld lu ru ld rd lu ru ld rd lu ru rd ld ru lu rd ld ru lu ld rd lu ru rd ld ru lu ld rd lu ru ld rd ru lu rd ld ru lu ld rd lu ru ld rd ru lu ld rd lu ru ld rd lu ru rd ld lu ru rd ld ru lu rd ld lu ru ld rd lu ru ld rd lu ru ld rd ru lu ld rd lu ru rd ld ru lu ld rd ru lu ld rd
+100
+lu ru rd ld ru lu ld rd lu ru rd ld ru lu ld rd lu ru rd ld ru lu ld rd ru lu rd ld ru lu rd ld ru lu rd ld lu ru ld rd lu ru rd ld ru lu rd ld lu ru ld rd ru lu rd ld lu ru rd ld lu ru ld rd ru lu rd ld lu ru rd ld ru lu ld rd ru lu ld rd ru lu rd ld lu ru ld rd lu ru rd ld ru lu ld rd lu ru ld rd
+100
+ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld lu ld lu ld ru rd ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd ru rd ru rd lu ld lu ld lu ld lu ld ru rd lu ld lu ld lu ld ru rd ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld lu ld
+100
+lu ld ru rd lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld lu ld lu ld ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld lu ld ru rd ru rd ru rd lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld
+100
+ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd ru rd lu ld lu ld lu ld ru rd lu ld lu ld lu ld ru rd lu ld lu ld lu ld lu ld lu ld ru rd lu ld lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd
+100
+ru rd ru rd lu ld ru rd lu ld lu ld ru rd lu ld lu ld ru rd ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld
+100
+lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd lu ld ru rd lu ld lu ld ru rd lu ld lu ld ru rd ru rd ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd ru rd lu ld ru rd ru rd ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd lu ld ru rd lu ld
+100
+lu ld lu ld ru rd ru rd ru rd ru rd lu ld lu ld ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld ru rd lu ld lu ld ru rd lu ld ru rd lu ld lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd
+100
+ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd lu ld lu ld ru rd ru rd lu ld ru rd ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld lu ld ru rd ru rd lu ld ru rd lu ld lu ld lu ld ru rd lu ld ru rd lu ld
+100
+ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld lu ld lu ld ru rd ru rd lu ld lu ld lu ld lu ld ru rd lu ld lu ld lu ld lu ld lu ld lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld lu ld lu ld lu ld lu ld ru rd lu ld ru rd lu ld
+100
+lu ld lu ld lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd ru rd ru rd ru rd lu ld lu ld ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld lu ld ru rd lu ld lu ld ru rd ru rd lu ld
+100
+ru rd ru rd lu ld ru rd lu ld ru rd lu ld lu ld lu ld lu ld lu ld lu ld lu ld lu ld lu ld ru rd lu ld ru rd ru rd ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld lu ld lu ld ru rd lu ld lu ld lu ld ru rd ru rd lu ld ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld
+100
+ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd lu ld lu ld lu ld ru rd lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd ru rd ru rd lu ld lu ld lu ld lu ld lu ld lu ld lu ld ru rd lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd ru rd ru rd ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd
+100
+lu ld lu ld lu ld lu ld lu ld lu ld ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd ru rd lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld ru rd lu ld lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld lu ld ru rd ru rd lu ld lu ld
+100
+ru rd lu ld lu ld ru rd lu ld lu ld lu ld ru rd ru rd ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd lu ld ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd lu ld lu ld ru rd ru rd
+100
+lu ld ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld lu ld lu ld ru rd ru rd lu ld lu ld ru rd ru rd ru rd ru rd lu ld lu ld ru rd ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd ru rd lu ld lu ld lu ld lu ld lu ld lu ld lu ld lu ld lu ld
+100
+ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd ru rd lu ld lu ld ru rd ru rd ru rd lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld lu ld lu ld lu ld lu ld ru rd lu ld lu ld ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd
+100
+ru rd lu ld lu ld ru rd ru rd lu ld lu ld ru rd ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd ru rd lu ld lu ld ru rd ru rd lu ld lu ld lu ld lu ld ru rd ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld lu ld ru rd ru rd ru rd
+100
+ru rd ru rd lu ld ru rd lu ld lu ld ru rd lu ld ru rd ru rd ru rd ru rd ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld ru rd ru rd lu ld lu ld lu ld lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd lu ld ru rd
+100
+lu ld ru rd lu ld ru rd lu ld ru rd lu ld lu ld ru rd ru rd ru rd ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld lu ld lu ld lu ld lu ld ru rd lu ld lu ld lu ld lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld lu ld ru rd lu ld ru rd lu ld ru rd
+100
+ru rd ru rd ru rd lu ld ru rd ru rd lu ld lu ld lu ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld ru rd lu ld lu ld ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd lu ld ru rd ru rd ru rd lu ld ru rd ru rd ru rd lu ld lu ld ru rd lu ld ru rd ru rd ru rd lu ld ru rd lu ld ru rd ru rd ru rd ru rd
+100
+ru rd lu ld lu ld lu ld ru rd lu ld lu ld lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd ru rd ru rd lu ld lu ld lu ld ru rd ru rd lu ld ru rd lu ld lu ld lu ld lu ld ru rd ru rd ru rd lu ld ru rd ru rd lu ld ru rd ru rd ru rd ru rd lu ld ru rd ru rd ru rd
+37
+ru lu rd ru ld lu ld rd lu ru ld lu ld rd lu ld lu ld lu ld ru rd ru rd lu ru ld lu rd ld ru rd ru lu ld rd ru
+91
+lu ld ru lu ld rd lu ld lu ru rd ld ru rd ru rd lu ld lu ld ru lu ld rd lu ld lu ld lu ld ru lu rd ru rd ld ru lu rd ld lu ru rd ru rd ld ru rd lu ld lu ld lu ru rd ru ld lu ld lu ld rd lu ru ld rd lu ru ld rd lu ru rd ru rd ld ru lu rd ld ru lu rd ru rd ru rd ru rd ld ru
+79
+ru rd lu ld ru lu ld lu rd ru ld lu rd ru ld rd ru rd ru rd ru rd lu ld lu ld ru rd ru rd ru lu rd ld lu ru rd ru ld rd lu ld ru lu rd ld ru lu ld lu ld lu ld rd ru rd lu ld ru rd lu ld lu ru ld rd ru rd ru lu ld lu ld lu ld rd ru lu rd
+42
+lu ru rd ld lu ru ld lu rd ru rd ru ld rd lu ld lu ld ru lu rd ld ru lu rd ld ru lu rd ld ru rd ru lu rd ru ld rd lu ld lu ru
+98
+ru lu rd ru ld lu ld rd lu ru rd ru rd ru ld rd ru lu ld rd lu ru ld rd ru rd lu ru rd ld lu ld lu ru ld lu rd ru rd ld ru lu rd ld lu ru rd ru rd ru ld lu ld rd ru lu rd ru rd ru rd ld ru rd lu ru ld rd lu ru ld lu ld rd lu ru ld rd lu ru ld rd lu ru ld lu rd ru rd ru rd ld ru rd lu ru rd ru
+92
+ru lu rd ld ru lu rd ru ld rd ru lu ld rd lu ld lu ld ru rd lu ru ld lu rd ru ld lu rd ru rd ru ld rd ru lu ld rd ru lu ld rd ru rd ru lu rd ld ru lu ld lu rd ld lu ld lu ru rd ru ld rd lu ld ru rd lu ld lu ru ld lu ld rd lu ld ru lu ld lu rd ru ld rd lu ru rd ru ld lu ld rd
+33
+ru rd lu ld ru lu ld lu rd ld ru rd ru lu rd ru ld lu ld rd lu ld lu ld lu ru rd ld lu ru rd ru rd
+90
+lu ld ru lu rd ru ld lu rd ru ld rd lu ru ld rd ru rd lu ld ru lu ld rd ru rd ru lu rd ld ru rd ru rd lu ru ld rd lu ru rd ld lu ru ld lu rd ld lu ru ld rd lu ld lu ru ld rd ru rd ru rd lu ru ld rd ru lu ld rd lu ru rd ru rd ru ld rd lu ld lu ld ru rd ru lu ld lu ld rd
+62
+lu ru ld lu rd ru rd ld ru lu rd ld ru lu rd ld ru rd lu ru rd ru ld rd ru rd ru rd ru rd lu ld ru rd lu ld lu ld lu ld ru rd ru lu ld rd ru lu rd ru rd ld lu ru ld rd lu ru rd ru rd ld
+21
+lu ld ru rd ru rd ru rd ru rd lu ru rd ru rd ru ld rd ru rd lu
+13
+ru lu ld lu rd ru rd ru ld lu rd ru ld
+28
+lu ld lu ru ld rd ru rd lu ld lu ld ru lu ld rd ru lu rd ru rd ld ru lu rd ru rd ld
+35
+lu ld ru rd ru rd ru lu rd ld lu ru ld rd lu ld ru rd ru rd ru lu rd ld lu ld lu ld ru lu ld rd ru lu rd
+5
+ru lu rd ld ru
+5
+ru rd lu ru ld
+38
+ru rd ru rd lu ld lu ld ru rd ru lu ld rd lu ld lu ru rd ld ru rd ru lu rd ru ld lu rd ru ld lu rd ru ld rd lu ld
+59
+lu ld lu ld lu ru ld lu rd ru rd ru ld rd ru rd ru rd ru rd ru rd lu ld lu ru rd ru ld rd lu ld lu ld lu ld ru rd ru lu rd ld ru rd lu ru rd ru rd ru ld rd lu ld ru lu ld lu ld
+46
+lu ld ru lu ld lu rd ru ld lu ld rd lu ld lu ld lu ru rd ld ru rd ru lu rd ru rd ru ld lu ld lu rd ld ru rd lu ld ru lu rd ru ld rd lu ru
+30
+ru lu rd ld ru rd ru lu rd ru rd ru ld rd ru lu ld lu ld lu rd ld lu ru ld lu ld lu ld lu
+86
+ru lu ld rd lu ru rd ru ld rd ru lu ld lu rd ru ld lu ld lu ld lu ld rd ru lu ld lu ld rd lu ru ld rd ru lu rd ru rd ru ld rd ru rd ru lu ld rd lu ru ld rd ru rd ru lu ld lu rd ld lu ld lu ld lu ru rd ru rd ld lu ru ld lu ld lu ld lu rd ru ld rd ru rd lu ld
+100
+lu ld lu ld ru rd lu ru rd ru ld lu ld lu ld lu rd ld lu ld ru lu ld rd lu ld ru lu rd ld lu ld lu ru rd ru ld rd lu ld lu ru ld rd ru lu ld lu ld lu ld rd lu ld lu ru ld lu rd ld lu ld lu ru rd ru rd ru rd ru rd ru rd ld lu ru ld rd lu ru rd ld ru rd ru lu ld lu rd ld ru rd ru lu rd ld lu ld lu ru
+100
+lu ld ru lu ld lu ld rd ru rd ru lu ld rd ru lu ld lu ld rd lu ld ru rd ru rd lu ld lu ru ld rd lu ld ru rd lu ru ld rd ru lu ld lu ld lu rd ru ld lu rd ru rd ru ld lu ld lu rd ld lu ld lu ru rd ru ld rd lu ld ru rd ru lu ld lu ld lu rd ld ru rd lu ld ru rd lu ld lu ld ru lu rd ru rd ru ld rd ru rd
+100
+ru lu ld lu rd ld lu ld lu ld ru rd lu ld ru rd ru rd ru lu ld rd ru lu rd ld lu ru ld lu ld rd ru lu rd ru ld lu ld rd ru rd lu ru rd ld ru rd ru rd lu ru ld lu rd ld lu ru ld lu ld lu rd ld lu ld lu ld ru rd ru lu rd ru ld rd lu ru ld lu ld rd lu ru rd ld ru lu ld rd lu ru ld lu ld rd lu ld lu ru
+100
+lu ru ld rd lu ru rd ru ld rd ru lu ld lu ld lu rd ld ru rd lu ru ld rd ru rd ru lu ld rd ru rd ru rd ru rd ru rd ru lu ld rd ru rd lu ru ld lu rd ru rd ru ld rd ru lu ld rd lu ld ru lu rd ld lu ld ru lu rd ld lu ld ru lu rd ru rd ru rd ld lu ld ru rd lu ru rd ru ld rd ru rd ru lu ld lu ld rd ru rd
+100
+ru lu rd ld ru rd ru lu ld rd ru lu rd ld ru rd lu ld ru lu rd ru rd ld ru rd ru rd ru rd ru lu rd ld lu ru rd ru rd ld lu ru rd ld lu ru rd ru ld lu rd ru ld lu ld rd lu ru ld lu rd ld lu ru rd ld ru lu rd ld ru rd lu ld ru rd ru rd lu ru ld lu rd ru ld lu ld lu ld lu ld rd ru lu ld rd lu ld ru rd
+100
+lu ru rd ld ru lu rd ld lu ld ru lu rd ru ld rd lu ld lu ru ld lu rd ru ld lu ld rd lu ld lu ru rd ru rd ru rd ru ld lu rd ld lu ru rd ru ld lu rd ld lu ru ld lu rd ld lu ru rd ru rd ld lu ld lu ru ld rd lu ru rd ru ld lu rd ld ru rd lu ru ld lu ld rd ru rd ru rd ru rd ru rd lu ru ld rd ru lu rd ld
+100
+lu ru rd ru ld rd ru lu ld rd lu ld lu ld lu ru rd ru ld rd lu ru ld lu ld rd ru lu rd ru ld lu ld lu rd ld ru lu ld lu ld lu ld rd lu ru ld lu ld rd ru lu rd ld lu ld ru rd ru lu ld rd ru lu rd ld ru rd lu ld lu ru ld lu rd ld ru rd ru rd lu ru rd ru ld lu rd ld ru rd ru rd ru lu rd ld lu ld lu ld
+100
+ru lu ld lu ld rd ru lu rd ru rd ru ld rd ru lu ld lu rd ru rd ld lu ru ld rd lu ld ru rd lu ld lu ru rd ru rd ld ru rd lu ld lu ld ru rd ru lu ld lu ld rd lu ld lu ld ru lu rd ld lu ru rd ld ru rd lu ru rd ru rd ld ru rd ru lu ld lu ld lu rd ru ld lu rd ru ld lu rd ru ld rd lu ld lu ld ru rd ru rd
+100
+ru lu rd ld lu ru rd ru rd ru ld rd lu ru ld rd lu ld lu ld lu ld lu ru ld rd ru rd lu ld ru rd ru rd ru rd ru lu rd ld ru lu rd ru ld lu rd ld ru rd ru rd lu ru rd ru rd ld lu ru rd ru rd ld ru rd lu ru rd ld ru lu ld rd ru lu rd ru rd ru ld lu rd ld lu ru rd ru ld rd ru rd ru rd ru lu ld rd lu ru
+100
+lu ld lu ld ru lu rd ld ru lu ld lu ld lu rd ld ru lu ld lu rd ru ld lu ld rd ru lu ld rd lu ld lu ld lu ld ru lu ld rd ru rd ru lu ld rd lu ru ld rd ru rd lu ru ld lu ld rd lu ru ld lu ld lu rd ld ru rd ru lu ld rd lu ru ld lu ld rd lu ru ld lu ld lu rd ld lu ru rd ld ru rd lu ru rd ru ld rd ru lu
+100
+ru rd ru lu rd ru rd ld lu ru ld lu ld lu ld rd lu ld lu ru rd ru rd ld ru rd ru rd lu ld lu ld ru lu ld lu ld lu ld rd ru lu rd ru rd ld lu ru ld lu ld lu ld rd lu ld lu ru ld rd ru lu ld lu ld lu ld rd ru rd lu ru rd ld ru lu rd ld ru lu rd ld ru rd lu ru rd ld ru rd lu ld lu ld ru lu rd ld ru lu
+100
+ru lu ld lu rd ld lu ru ld lu ld rd lu ru rd ld ru rd ru lu ld rd ru lu ld rd lu ld ru rd lu ld ru rd lu ru ld rd lu ld ru lu rd ld ru rd lu ld ru rd ru lu ld rd ru rd ru rd ru lu ld lu rd ld lu ld ru rd lu ru rd ru rd ld ru lu rd ld lu ru ld rd lu ru rd ld lu ld ru rd ru rd lu ld ru lu ld lu rd ru
+100
+lu ld lu ld lu ru ld lu ld rd ru lu ld lu ld rd ru lu ld rd lu ld ru rd lu ru ld rd ru lu rd ru ld rd lu ld lu ld ru rd ru lu ld rd lu ld ru rd ru rd lu ru ld rd lu ld ru lu rd ru rd ru ld lu ld rd ru rd lu ru rd ru rd ld lu ld lu ld lu ld ru lu rd ru ld lu ld lu rd ru ld lu rd ld lu ld ru rd ru rd
+100
+lu ld lu ru ld lu rd ld ru lu ld lu rd ld ru lu rd ru rd ru ld lu ld rd ru rd lu ld ru lu ld rd lu ru rd ru rd ru ld lu ld lu ld lu rd ld lu ld lu ru rd ld ru lu rd ru rd ru ld lu rd ld lu ld lu ld ru lu rd ld lu ru rd ru rd ld ru rd ru rd lu ld ru lu rd ld lu ru rd ru ld rd lu ru rd ru ld rd lu ru
+100
+lu ld ru rd lu ld lu ru ld lu rd ld lu ru ld lu rd ld ru lu rd ld ru rd lu ld lu ld ru lu rd ld ru lu ld lu rd ld lu ld lu ru rd ru rd ru ld lu ld rd ru lu rd ld lu ru ld lu rd ru rd ru ld rd lu ld lu ru rd ru rd ld ru rd ru lu rd ru ld rd lu ru ld rd ru lu rd ru ld lu rd ru ld rd lu ld ru lu ld rd
+100
+lu ru ld lu rd ru ld lu ld lu ld lu rd ld lu ru rd ld lu ld lu ld lu ru ld lu rd ld lu ru rd ld lu ru ld lu rd ru rd ld ru lu rd ld ru rd lu ld ru lu ld rd ru rd ru lu ld rd lu ru ld rd lu ru rd ru rd ru rd ru rd ld ru rd lu ld ru lu ld rd lu ru ld rd lu ld ru rd ru rd lu ld lu ld lu ru ld lu ld lu
+100
+ru rd ru rd lu ld lu ld lu ru ld rd lu ld lu ru rd ru rd ld lu ru ld rd ru rd lu ld lu ld ru lu ld rd ru lu ld rd ru lu ld lu ld rd ru rd ru rd lu ld lu ld lu ru rd ld lu ru rd ld lu ld lu ld ru rd lu ru rd ld ru rd lu ru rd ru ld lu rd ru rd ru ld rd lu ru ld lu rd ld lu ru rd ld ru rd lu ru ld lu
+100
+ru lu ld lu rd ru ld lu ld lu ld lu rd ru ld rd ru rd ru lu rd ru ld rd lu ld lu ld ru lu ld rd ru lu ld rd ru rd ru rd lu ld lu ru ld rd lu ld ru rd lu ru rd ld ru lu ld rd lu ld ru lu ld lu rd ru ld rd ru rd lu ru ld lu ld rd ru rd lu ld ru rd ru rd lu ru rd ru rd ru ld rd lu ru ld lu rd ru rd ld
+100
+ru lu rd ld lu ru ld rd ru rd lu ru rd ru ld rd lu ld lu ld lu ru rd ld ru rd lu ld lu ld ru lu rd ru rd ld lu ld ru lu ld rd ru lu rd ru ld lu rd ld lu ru rd ru rd ru rd ld ru lu ld rd lu ru rd ld ru rd ru rd ru lu rd ru rd ru ld rd ru lu rd ru rd ru rd ld ru lu rd ld lu ld ru rd lu ru ld rd ru rd
+100
+lu ld ru rd ru rd lu ld lu ld ru lu rd ru ld lu rd ru ld rd lu ld lu ru rd ru rd ld ru lu ld lu ld lu rd ld ru lu ld lu rd ld lu ld ru lu rd ru ld rd ru rd lu ld lu ld ru lu rd ld ru lu rd ru rd ld lu ld ru rd lu ru rd ru rd ru ld lu rd ld lu ld lu ru ld rd ru lu rd ld lu ru rd ld ru lu ld rd lu ru
+100
+lu ld ru lu ld rd ru lu rd ru ld lu ld rd lu ru ld lu ld lu ld rd lu ru rd ld lu ru rd ld lu ru rd ld lu ld lu ru ld lu rd ru ld lu ld rd lu ru ld lu ld rd lu ld lu ld lu ru rd ld ru rd ru rd ru lu rd ru rd ru ld lu rd ld lu ld ru rd ru rd lu ru rd ru rd ld ru lu ld rd ru rd lu ru ld lu rd ru rd ru
+100
+ru lu rd ru ld rd ru lu ld rd ru rd ru rd ru lu ld lu ld rd lu ld ru rd ru lu ld lu rd ld lu ru rd ld ru lu ld lu rd ru rd ru rd ru ld lu rd ld lu ru rd ld lu ld ru rd lu ru rd ru ld rd lu ld lu ru ld lu rd ld ru rd lu ru ld rd ru lu ld lu ld lu rd ld ru rd lu ru ld rd ru lu rd ru rd ru rd ru ld lu
+100
+lu ld ru rd lu ld lu ru ld rd lu ld ru rd ru rd lu ru rd ld lu ld ru lu ld rd ru rd lu ld lu ru ld rd ru lu rd ru rd ld ru lu ld rd ru rd lu ld ru rd lu ld ru rd lu ru rd ld ru rd lu ru rd ld ru rd lu ru rd ru ld lu rd ru ld lu rd ru ld lu ld rd lu ld lu ru ld rd lu ru ld lu rd ru rd ru ld rd ru rd
+100
+ru rd ru rd lu ld ru lu ld lu ld lu ld lu rd ru rd ru rd ld ru rd lu ld ru lu ld rd lu ld lu ru ld lu rd ld ru lu rd ld lu ld ru lu rd ru ld rd ru rd ru lu ld rd lu ru ld lu ld rd ru rd lu ru rd ld ru lu ld lu ld rd lu ld ru rd lu ru rd ru ld rd lu ld lu ru ld lu rd ru ld rd lu ru ld lu ld rd ru rd
+100
+ru lu ld lu ld rd lu ld lu ru ld lu rd ru rd ld ru lu rd ld ru lu ld rd ru lu rd ld lu ru rd ru ld rd lu ld ru rd ru rd lu ld lu ld ru rd lu ld ru rd lu ru rd ru rd ld ru lu ld lu rd ld ru rd ru lu rd ld lu ru rd ld ru rd ru rd ru lu ld rd ru rd ru rd lu ru ld lu ld rd lu ld lu ru ld lu rd ld lu ld
+100
+lu ld lu ru ld lu ld lu ld lu rd ru rd ld lu ld ru rd ru rd lu ld ru lu rd ld ru lu rd ld lu ld ru lu rd ru rd ru rd ru ld lu ld lu rd ru rd ld lu ru ld lu rd ru rd ld ru lu ld rd lu ld lu ld ru rd ru lu ld lu ld lu rd ru rd ru ld rd lu ld lu ru ld lu rd ru ld lu rd ld ru rd ru lu ld rd lu ld lu ld
+100
+lu ld ru lu ld rd lu ld lu ru ld lu rd ru rd ld ru lu rd ld ru lu ld rd ru rd ru rd lu ru ld rd ru rd ru rd ru rd lu ld ru lu rd ld ru lu ld lu rd ru rd ld lu ld ru lu ld rd lu ld lu ru ld rd lu ru rd ru ld rd lu ld lu ld ru rd lu ru rd ld lu ld ru lu rd ld lu ld lu ru ld lu rd ru rd ru rd ld ru lu
+100
+ru rd lu ru rd ld ru rd ru lu ld lu ld rd ru lu ld rd lu ld ru rd ru lu ld lu ld lu ld rd lu ld ru rd lu ru ld lu rd ru rd ld ru lu ld rd lu ld lu ld lu ru ld lu rd ld lu ld ru rd lu ru ld lu rd ld ru rd ru rd ru rd lu ru rd ru ld lu rd ru ld rd lu ld ru rd lu ld lu ld ru lu rd ru ld lu rd ld ru lu
+100
+ru rd lu ru ld rd ru lu ld lu ld lu ld rd ru lu ld rd lu ru rd ld ru lu rd ld lu ld lu ld lu ru rd ld lu ru ld rd ru lu rd ld ru rd lu ld lu ld ru rd ru rd ru rd ru lu rd ld ru rd lu ld lu ld lu ru rd ru ld rd lu ru rd ld lu ru rd ld ru rd lu ru rd ld ru lu rd ru ld rd lu ru rd ru rd ld ru lu ld lu
+100
+ru lu ld rd lu ru ld rd lu ru rd ld lu ld ru rd lu ld lu ld lu ld lu ld ru rd lu ld lu ld ru rd lu ld lu ru ld rd ru rd lu ld ru lu rd ld ru lu ld rd ru rd lu ld ru rd ru lu ld lu ld lu rd ld lu ru rd ld lu ld ru rd ru rd lu ru rd ld lu ru ld rd ru lu rd ru ld rd ru lu rd ru ld lu ld rd ru rd lu ld
+100
+lu ld lu ld lu ld lu ld ru lu rd ld ru lu rd ru ld rd ru lu ld rd ru lu rd ru ld lu rd ld lu ru rd ru rd ru ld lu rd ld lu ru ld lu ld rd lu ru rd ru ld rd lu ru rd ld lu ld lu ru rd ru ld rd lu ru rd ld lu ru ld rd lu ru rd ru rd ld lu ru rd ld ru lu rd ld lu ru ld lu rd ld ru rd lu ld lu ld ru rd
+100
+ru lu rd ld ru lu rd ru rd ru rd ru ld rd lu ld ru rd lu ld ru lu ld rd lu ru rd ru rd ld lu ld lu ru rd ld lu ru rd ru ld rd lu ld lu ru rd ld lu ld ru rd lu ld lu ld ru rd ru lu ld lu ld rd ru rd lu ru rd ld ru lu rd ru rd ld ru lu ld lu rd ru rd ru ld rd ru rd ru lu rd ru rd ld ru lu rd ru rd ru
+100
+lu ld lu ld ru lu ld lu rd ld ru rd ru rd lu ld ru lu ld rd ru lu rd ru ld rd ru lu ld rd lu ld ru rd lu ru ld rd ru lu rd ld ru rd ru rd ru rd lu ld lu ru rd ld ru lu ld rd lu ru rd ru ld lu ld lu rd ld lu ld lu ru ld rd lu ld ru lu rd ru rd ru rd ru ld lu ld lu rd ld lu ru rd ru rd ru ld rd lu ld
+100
+lu ld lu ru rd ru ld lu ld lu ld lu ld rd ru rd ru rd ru rd lu ru rd ru rd ru rd ru rd ru ld rd lu ld lu ru rd ru ld rd lu ru ld lu ld rd lu ld ru rd ru lu rd ld ru rd ru lu ld rd lu ld lu ru rd ru rd ru ld lu ld rd ru rd lu ld lu ru rd ld lu ru rd ru ld rd lu ld lu ru ld lu ld rd ru rd lu ld ru lu
+100
+ru lu ld rd ru rd lu ld ru rd ru lu rd ru rd ld lu ld lu ld ru rd ru lu rd ld ru rd lu ld lu ld ru lu ld rd lu ld lu ld lu ld lu ru ld lu ld lu rd ru ld lu rd ru rd ru rd ru rd ld lu ru ld lu ld rd lu ru rd ld ru rd ru rd ru lu ld lu ld lu rd ru rd ld lu ld ru rd ru rd ru lu ld lu rd ld lu ru ld lu
+100
+lu ld ru lu ld rd ru rd lu ru ld lu rd ld ru rd ru lu ld rd ru lu rd ru ld lu ld lu rd ru rd ru rd ru ld lu rd ld lu ru rd ld lu ld ru lu rd ru ld lu rd ru rd ld lu ld ru rd ru rd lu ru ld lu ld lu rd ru rd ru ld lu rd ru rd ld lu ru ld lu rd ld ru lu ld rd lu ru ld rd ru lu ld lu ld lu ld rd ru rd
+100
+lu ld lu ld lu ru rd ru rd ld lu ru rd ru rd ld lu ld lu ru rd ru rd ld ru rd ru rd lu ru ld lu rd ru rd ru rd ld ru rd ru lu rd ru rd ru ld rd ru rd lu ru ld lu ld lu ld rd ru lu ld lu ld rd lu ru rd ru ld lu rd ru rd ru ld lu ld lu rd ru ld rd lu ru rd ld ru rd ru lu ld rd ru rd lu ru ld lu rd ld
+100
+ru lu ld rd lu ru ld lu ld rd lu ld lu ld lu ld ru rd lu ld ru lu rd ld ru rd ru lu ld lu ld lu rd ld ru rd lu ld ru lu rd ru ld rd lu ru rd ld lu ru ld rd ru lu rd ld ru lu rd ru rd ld lu ld ru lu rd ld ru lu rd ru rd ld lu ld ru rd ru lu ld rd ru rd ru lu rd ru ld rd lu ru rd ld ru lu ld rd ru rd
+100
+ru rd ru lu rd ru ld lu ld rd lu ld ru lu rd ld lu ru ld rd ru lu rd ld lu ru ld lu rd ru rd ru rd ld lu ru rd ru ld rd ru lu rd ld lu ld lu ld lu ld ru rd lu ru ld lu rd ld ru lu ld lu rd ru rd ru rd ld ru rd ru lu ld lu rd ru ld rd ru lu ld rd lu ld lu ru rd ru ld lu ld lu rd ru rd ru rd ld lu ru
+100
+ru lu ld lu ld rd lu ru ld rd ru rd ru rd lu ru rd ru rd ru rd ru rd ru rd ru rd ru ld rd lu ld ru lu rd ru rd ru ld lu ld rd ru lu rd ru ld rd ru lu ld lu rd ld lu ru rd ld lu ru rd ld lu ld lu ru ld rd lu ld lu ld ru rd ru rd lu ru ld rd ru rd ru rd ru rd lu ru ld rd ru lu ld lu rd ld ru rd lu ru
+100
+lu ru ld rd lu ru ld rd lu ld ru rd ru lu ld lu ld lu ld rd ru lu ld rd lu ld lu ld ru lu ld rd ru rd lu ru rd ld ru rd ru rd lu ru rd ru rd ld lu ld lu ru rd ld lu ld ru rd ru lu rd ru ld lu rd ld ru lu rd ru ld lu rd ru ld rd lu ru ld rd lu ld lu ru ld lu rd ru ld lu rd ld lu ru rd ru ld lu ld lu
+100
+lu ld lu ld lu ru ld rd ru lu ld rd ru rd lu ld ru rd lu ld ru lu ld lu rd ld lu ld lu ru ld rd lu ld lu ru rd ld ru rd ru lu rd ru ld lu ld rd ru lu ld rd ru rd ru rd ru lu ld lu rd ru rd ld ru rd lu ld lu ld ru lu ld lu ld rd lu ru rd ru rd ld lu ld ru lu ld lu rd ru ld rd ru lu ld lu ld lu ld lu
+100
+ru rd ru rd ru rd ru lu ld lu ld rd ru rd lu ru rd ru rd ru rd ld ru lu rd ru rd ld ru lu rd ru ld lu rd ru ld lu rd ru rd ld ru lu rd ld ru rd ru rd ru rd ru lu rd ru rd ld ru rd ru rd ru rd ru lu ld rd lu ld lu ld ru rd ru lu rd ld ru lu rd ru rd ru rd ru rd ld ru rd lu ld lu ld lu ld ru lu ld lu
+100
+lu ru ld lu ld rd lu ru ld lu rd ld lu ld ru lu ld rd lu ru rd ru rd ld lu ld ru rd lu ld ru rd ru lu ld rd ru lu rd ru ld rd lu ru rd ru rd ld lu ld ru lu ld rd lu ld lu ld lu ld ru rd lu ld ru rd lu ru ld lu rd ru rd ld ru rd lu ld ru lu rd ru rd ld lu ru ld lu rd ld ru lu rd ld ru rd lu ru rd ld
+100
+ru rd ru lu rd ld ru rd lu ru ld lu ld rd lu ld lu ru ld rd lu ru ld rd ru lu rd ru ld rd lu ru rd ld lu ld ru lu ld lu ld lu ld lu ld lu ld rd ru lu ld rd ru lu ld lu rd ld lu ld lu ld lu ld lu ld ru lu rd ru rd ru ld rd ru rd ru lu ld lu ld lu ld rd lu ru ld lu rd ld ru rd ru rd lu ld ru rd ru rd
+100
+lu ru ld lu ld lu rd ld lu ru rd ld lu ru ld lu ld rd ru rd lu ld ru rd ru rd lu ld ru lu rd ld ru rd lu ld ru lu rd ru ld rd lu ld ru rd ru lu ld lu ld lu rd ld lu ld ru lu rd ld lu ld ru rd lu ld ru lu ld lu ld rd lu ld lu ld lu ru ld rd lu ru ld rd ru rd lu ld ru rd lu ld lu ld lu ru rd ru rd ld
+100
+lu ld lu ld ru lu rd ld lu ld ru lu ld lu ld lu rd ld lu ld ru lu ld lu rd ru ld rd ru lu rd ld ru rd lu ru ld lu ld lu rd ru rd ld lu ld lu ru rd ld lu ld lu ru rd ru ld rd ru rd ru lu ld lu ld lu rd ru rd ru ld lu ld lu ld lu ld rd ru lu rd ru ld lu ld rd lu ru ld rd lu ld ru lu ld lu ld rd ru lu
+100
+ru rd ru rd ru rd ru rd ru lu rd ru ld lu rd ru ld rd lu ld lu ld ru lu rd ld ru rd lu ld ru rd ru rd lu ld ru rd ru rd lu ld lu ru rd ld lu ru ld rd ru rd ru rd lu ld ru lu ld lu rd ru ld lu ld lu rd ru rd ld lu ld ru lu rd ld lu ld lu ld ru rd ru lu ld rd lu ld ru rd lu ld ru rd lu ru ld rd ru rd
+100
+ru rd ru rd lu ld lu ld lu ld ru lu ld rd ru rd lu ld ru rd ru lu ld lu rd ru ld rd ru lu ld lu ld lu ld lu rd ld ru lu rd ld ru rd lu ru ld lu ld lu rd ld lu ld lu ru rd ru rd ld ru lu rd ru rd ru rd ld lu ru ld rd ru rd ru lu ld lu rd ru rd ld lu ld ru rd lu ru ld lu ld rd ru rd lu ru ld rd lu ld
+100
+ru lu ld lu ld lu ld lu rd ru ld lu ld rd ru rd lu ld ru lu rd ld ru lu rd ld ru lu rd ld ru lu ld lu rd ru rd ru ld lu ld lu rd ld lu ld lu ru ld rd ru rd lu ru ld lu ld lu rd ld lu ru rd ru rd ld lu ru ld rd ru lu ld rd lu ld ru rd ru lu ld lu rd ld lu ru rd ld lu ld ru rd ru rd ru rd ru lu rd ru
+1
+lu
+2
+lu ru
+0
